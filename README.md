@@ -1,4 +1,8 @@
-# Luigi Dicataldo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
+  <img alt="Luigi Dicataldo — Dall'idea al prodotto. Design, sviluppo con IA e applicazioni reali." src="assets/profile-header-light.svg" width="100%">
+</picture>
 
 Trasformo idee ed esigenze concrete in applicazioni mobile, desktop e web, utilizzando in modo avanzato l'intelligenza artificiale nella progettazione e nello sviluppo.
 
@@ -6,12 +10,14 @@ Seguo il percorso completo del prodotto: analisi del bisogno, esperienza utente,
 
 ## Dall'idea al prodotto
 
-- **Analisi e requisiti:** traduco un problema in funzionalità, flussi d'uso e criteri di accettazione.
-- **UX e UI design:** progetto schermate, navigazione e interazioni, curando semplicità d'uso e coerenza visiva.
-- **Architettura e integrazioni:** collego interfacce, logica applicativa, database e servizi esterni in una soluzione completa.
-- **Sviluppo con l'IA:** guido gli assistenti attraverso contesto, istruzioni strutturate e attività circoscritte, integrando e rivedendo le soluzioni prodotte.
-- **Test e affidabilità:** verifico i flussi principali, affronto errori e casi limite e intervengo sulle criticità emerse.
-- **Rilascio ed evoluzione:** preparo la distribuzione del prodotto e ne sviluppo i miglioramenti successivi.
+| Fase | Come lavoro |
+| --- | --- |
+| **Analisi e requisiti** | Traduco un problema in funzionalità, flussi d'uso e criteri di accettazione. |
+| **UX e UI design** | Progetto schermate, navigazione e interazioni, curando semplicità d'uso e coerenza visiva. |
+| **Architettura e integrazioni** | Collego interfacce, logica applicativa, database e servizi esterni in una soluzione completa. |
+| **Sviluppo con l'IA** | Guido gli assistenti attraverso contesto, istruzioni strutturate e attività circoscritte, integrando e rivedendo le soluzioni prodotte. |
+| **Test e affidabilità** | Verifico i flussi principali, affronto errori e casi limite e intervengo sulle criticità emerse. |
+| **Rilascio ed evoluzione** | Preparo la distribuzione del prodotto e ne sviluppo i miglioramenti successivi. |
 
 ## Strategie di lavoro
 
