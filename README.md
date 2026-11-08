@@ -1,36 +1,59 @@
+**English** · [Italiano](README.it.md)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-light.svg">
-  <img alt="Luigi Dicataldo — Dall'idea al prodotto. Design, sviluppo con IA e applicazioni reali." src="assets/profile-header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-en-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header-en-light.svg">
+  <img alt="Luigi Dicataldo — From idea to product. Software QA, test automation and AI-assisted development." src="assets/profile-header-en-light.svg" width="100%">
 </picture>
 
-Trasformo idee ed esigenze concrete in applicazioni mobile, desktop e web, utilizzando in modo avanzato l'intelligenza artificiale nella progettazione e nello sviluppo.
+**Software QA Tester · Test automation · AI-assisted application development**
 
-Seguo il percorso completo del prodotto: analisi del bisogno, esperienza utente, design dell'interfaccia, implementazione, test e rilascio. Ho realizzato applicazioni per esigenze operative e quotidiane, con esperienza di pubblicazione su App Store.
+I work in software quality at **EHILAB**, where I have been a QA Tester since January 2024. I also build tools and applications, taking them from requirements and UX/UI design through implementation, testing and release.
 
-## Dall'idea al prodotto
+My work combines attention to software quality with the ability to turn real needs into usable products. My experience includes publishing an app on the **App Store** and managing subsequent updates.
 
-| Fase | Come lavoro |
+[Connect on LinkedIn](https://www.linkedin.com/in/luigi-dicataldo-0b3518249/)
+
+## What I build
+
+| Area | My contribution |
 | --- | --- |
-| **Analisi e requisiti** | Traduco un problema in funzionalità, flussi d'uso e criteri di accettazione. |
-| **UX e UI design** | Progetto schermate, navigazione e interazioni, curando semplicità d'uso e coerenza visiva. |
-| **Architettura e integrazioni** | Collego interfacce, logica applicativa, database e servizi esterni in una soluzione completa. |
-| **Sviluppo con l'IA** | Guido gli assistenti attraverso contesto, istruzioni strutturate e attività circoscritte, integrando e rivedendo le soluzioni prodotte. |
-| **Test e affidabilità** | Verifico i flussi principali, affronto errori e casi limite e intervengo sulle criticità emerse. |
-| **Rilascio ed evoluzione** | Preparo la distribuzione del prodotto e ne sviluppo i miglioramenti successivi. |
+| **Test automation tools** | Independently conceived, designed and built a tool from scratch that records browser tests and automatically generates Python scripts. |
+| **Operational workflows** | Developed a management application to simplify daily work and ticket management, with automation and Jira integration. |
+| **Applications for real use** | Build mobile, desktop and web applications, covering requirements, UX/UI, implementation, testing, distribution and ongoing improvements. |
 
-## Strategie di lavoro
+## Quality in practice
 
-Procedo per prototipi, obiettivi circoscritti e iterazioni brevi. Definisco il risultato atteso, verifico il comportamento dell'applicazione e uso il feedback per migliorare design e funzionalità.
+- Manual and regression testing, with test cases managed and executed in **TestRail**.
+- API testing with **Postman** and request/response analysis using **DevTools**.
+- Defect reporting and tracking in **Jira**, working with developers to investigate issues.
+- Virtual machine access, log analysis and first-line operational support, including night-time support for projects that require an immediate response.
 
-L'IA è parte del mio processo di realizzazione: la guido nella scomposizione dei problemi, nell'implementazione e nel debugging, mantenendo il controllo sui requisiti e sul risultato finale.
+## From requirements to release
 
-## Applicazioni nella vita reale
+| Stage | How I work |
+| --- | --- |
+| **Understand the problem** | Define requirements, user flows and acceptance criteria around a concrete need. |
+| **Design the experience** | Develop prototypes, screens and interactions, refining clarity and consistency. |
+| **Build and integrate** | Connect interfaces, application logic, databases and external services. |
+| **Guide AI-assisted development** | Provide context and structured instructions, break problems into focused tasks, and review and debug the resulting solutions. |
+| **Test the outcome** | Check core workflows, errors and edge cases against the expected behaviour. |
+| **Release and improve** | Prepare distribution and follow up with fixes, feedback and product updates. |
 
-I miei lavori riguardano la gestione di processi operativi, l'organizzazione personale e condivisa, la produttività e l'interazione tra dispositivi. Comprendono interfacce mobile e desktop, dati condivisi, aggiornamenti in tempo reale e funzionalità offline.
+I work in short iterations, using prototypes and explicit goals to keep implementation, design and verification connected.
 
-Il filo conduttore è costruire strumenti che rispondano a un'esigenza reale e siano semplici da usare nel contesto per cui sono stati progettati.
+## Tools and technologies
 
-## Codice e riservatezza
+**QA and collaboration:** Postman · TestRail · DevTools · Jira · Git
 
-Mantengo il codice applicativo in repository privati. Qui presento il mio metodo, le competenze applicate e gli ambiti dei lavori realizzati.
+**Development background:** Python · Java · C · SQL · HTML · CSS · Spring · MySQL
+
+**Technologies used in personal projects:** TypeScript · React Native · Expo · Swift · SvelteKit · PostgreSQL · Docker
+
+## Code and confidentiality
+
+Application repositories remain private. This profile presents my methods, responsibilities and areas of work without disclosing project names, private source code or business data.
+
+---
+
+[Italian version](README.it.md) · [LinkedIn](https://www.linkedin.com/in/luigi-dicataldo-0b3518249/)
